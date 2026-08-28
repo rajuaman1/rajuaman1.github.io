@@ -1,2 +1,2 @@
 # rajuaman1.github.io
-My website
+This is sample text that should be on my website
